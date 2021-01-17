@@ -2,6 +2,7 @@
 
 #### yolov4/yolov4tiny/ssd神经网络人脸识别应用程序（不含训练）
 使用openvino软件包将tensorflow权重转化为.bin/.xml格式，之后使用Intel NSC2运行
+
 python>=3.6
 
 tensorflow>=1.12
